@@ -1,3 +1,27 @@
-Somewhere around the College/Unviercity （Grid-Field Analyses）
-This plugin，Grid-Field Analyses， is to help people better understand a strange city. 
+#  Somewhere around the College/Unviercity （Grid-Field Analyses）
+
+## introduction
+
+This plugin，Grid-Field Analyses， is to help people better understand a strange city.
+
+Through the visualization effect of the grid, to interpret which places in a city are crowded with people and which places are free.
+
+## examples
+Barcelona 
+
+
+
+## use
+
+step1  Position the map to the midpoint, and then assign the required locations to different terrains.
+
+step2  Show location or terrain connection
+
+step3  Adjust the distance and contact points
+
+step3  Connect the required points
+
+step4  Determine the connection between the core location and the surrounding area
+
+ 
 Through the visualization effect of the grid, to interpret which places in a city are crowded with people and which places are free.
